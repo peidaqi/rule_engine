@@ -1,8 +1,9 @@
-from signal_filter import *
 import sys
 
 if not sys.version[0] == "3":
 	raise RuntimeError("This program requires Python 3.x!")
+
+from signal_filter import *
 
 def ml_call_back(itm, ret):
 	if ret is False:

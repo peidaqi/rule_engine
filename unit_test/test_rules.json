@@ -1,0 +1,3 @@
+[
+  {"signal": "ATL2", "op": "!=", "value": "LOW", "value_type": "String"}
+]

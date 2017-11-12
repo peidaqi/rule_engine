@@ -1,0 +1,6 @@
+[
+{"signal": "ATL1", "op": "<=", "value": "240", "value_type": "Integer"},
+{"signal": "ATL2", "op": "!=", "value": "LOW", "value_type": "String"},
+{"signal": "ATL3", "op": "<=", "value": "TODAY", "value_type": "Datetime"},
+{"signal": "ATL10", "op": "<", "value": "50", "value_type": "Integer"}
+]

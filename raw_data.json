@@ -1,0 +1,5 @@
+[
+	{"signal": "SIG2", "value_type": "String", "value": "LOW"}, 
+	{"signal": "SIG9", "value_type": "Datetime", "value": "2011-02-13 10:40:10"}, 
+	{"signal": "SIG6", "value_type": "Integer", "value": "192.3"}
+]

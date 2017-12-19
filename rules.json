@@ -1,0 +1,5 @@
+[
+{"signal": "SIG2", "op": "!=", "value": "LOW", "value_type": "String"},
+{"signal": "SIG9", "op": "<=", "value": "TODAY", "value_type": "Datetime"},
+{"signal": "SIG6", "op": "<", "value": "50", "value_type": "Integer"}
+]

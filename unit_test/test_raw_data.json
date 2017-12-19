@@ -1,4 +1,4 @@
 [
-  {"signal": "ATL2", "value_type": "String", "value": "LOW"},
-  {"signal": "ATL2", "value_type": "String", "value": "HIGH"}
+  {"signal": "SIG2", "value_type": "String", "value": "LOW"},
+  {"signal": "SIG2", "value_type": "String", "value": "HIGH"}
 ]
